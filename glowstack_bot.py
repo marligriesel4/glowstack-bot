@@ -3,7 +3,7 @@ from telegram import Update
 from telegram.ext import Application, MessageHandler, CommandHandler, filters, ContextTypes
 
 BOT_TOKEN = "8811562415:AAHO5b_jHosAmlquS_TmOYUWeO5s2S1tGfY"
-ADMIN_IDS = [7607613803]
+ADMIN_IDS = [7607613803, 8812981748]
 
 logging.basicConfig(level=logging.INFO)
 
